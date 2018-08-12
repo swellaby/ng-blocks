@@ -3,15 +3,15 @@
   "description": "THE blocks to build your angular app with!",
   "version": "0.0.0-dev",
   "dependencies": {
-    "@angular/common": "^5.1.1",
-    "@angular/core": "^5.1.1",
+    "@angular/common": "^6.0.0",
+    "@angular/core": "^6.0.0",
     "rxjs": "^5.5.2"
   },
   "devDependencies": {
-    "@angular/compiler": "5.2.10",
-    "@angular/platform-browser": "5.2.10",
-    "@angular/platform-browser-dynamic": "5.2.10",
-    "@angular/router": "5.2.10",
+    "@angular/compiler": "6.1.2",
+    "@angular/platform-browser": "6.1.2",
+    "@angular/platform-browser-dynamic": "6.1.2",
+    "@angular/router": "6.1.2",
     "@commitlint/cli": "7.0.0",
     "@commitlint/config-angular": "7.0.1",
     "@commitlint/prompt-cli": "7.0.0",
