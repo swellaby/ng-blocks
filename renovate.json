@@ -1,5 +1,9 @@
 {
   "extends": [
-    "config:base"
+    "@swellaby"
+  ],
+  "assignees": [
+      "beverts312",
+      "calebcartwright"
   ]
 }
